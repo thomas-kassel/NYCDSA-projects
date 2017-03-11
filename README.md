@@ -1,2 +1,2 @@
 # NYCDSA-projects
-Collection of course projects for the NYC Data Science Academy bootcamp program.
+Collection of course projects conducted during the NYC Data Science Academy bootcamp program.
